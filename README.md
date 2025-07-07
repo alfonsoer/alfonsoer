@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![1751882110911](https://github.com/user-attachments/assets/342518b4-5013-4c3c-8af3-42f8ade46f16)
+
+Tu savais qu’il y a des escargots qui ont des fleurs sur la tête ?
+
+🇫🇷 Vous trouverez ici quelques projets qui m'ont servi de base pour développer des applications plus spécifiques en utilisant des outils de traitement d’images et de deep learning, dans les domaines de la vision par ordinateur et de la neuroimagerie.
+🇬🇧 Here you will find some projects that served me as a foundation for developing more specific applications using image processing and deep learning tools in the fields of computer vision and neuroimaging.
 
 <!--
 **alfonsoer/alfonsoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
