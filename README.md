@@ -5,6 +5,7 @@
 Tu savais qu’il y a des escargots qui ont des fleurs sur la tête ?
 
 🇫🇷 Vous trouverez ici quelques projets qui m'ont servi de base pour développer des applications plus spécifiques en utilisant des outils de traitement d’images et de deep learning, dans les domaines de la vision par ordinateur et de la neuroimagerie.
+
 🇬🇧 Here you will find some projects that served me as a foundation for developing more specific applications using image processing and deep learning tools in the fields of computer vision and neuroimaging.
 
 <!--
