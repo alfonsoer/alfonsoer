@@ -4,6 +4,7 @@
 🇫🇷 Vous trouverez ici une sélection de projets à usage général que j’ai utilisés ou que j’utilise actuellement comme base pour développer des applications plus spécifiques et performantes. Ces projets mettent en œuvre des techniques de traitement d’images et d’apprentissage profond dans les domaines de la vision par ordinateur et de la neuroimagerie. Ils reflètent mon expertise en classification d’images, segmentation, interprétabilité de l’IA, analyse volumique, analyse de workflows, détection de défauts et identification de points à risque, en alliant rigueur scientifique et efficacité d’ingénierie.
 
 ---
+<!--
 ## 🗂️ Project Index
 | Project | Description | Technologies |
 |---------|-------------|-------------|
@@ -13,7 +14,7 @@
 | [04 - Arts Visual Analysis](./04-art-visual-workflows) | Visual pattern extraction from performing arts archives. | `Pose Estimation`, `OpenCV`, `t-SNE`, `Faiss` |
 | [05 - Medical Volume Estimation](./05-volume-analysis) | Volume computation from 3D brain masks for clinical use. | `Nibabel`, `Numpy`, `PyTest` |
 | [06 - Industrial Defect Detection](./06-industrial-vision) | Automated defect classification and risk point identification in industrial products. | `OpenCV`, `YOLO`, `Torch`, `Vision Transformers` |
-
+-->
 ---
 ## 🧠 Expertise Areas
 
