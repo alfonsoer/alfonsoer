@@ -22,7 +22,7 @@
 - 🏭 **Industrial Vision** (defect detection, risk points, quality control)
 - 🧪 **Machine Learning / Deep Learning**
 - 🖼️ **Image Processing & Feature Extraction**
-- 🧰 Python, PyTorch, Scikit-learn, OpenCV, Git, Docker
+- 🧰 Python, PyTorch, TensorFlow Scikit-learn, OpenCV, C/C++, Git, Docker
 
 ---
 ## 👤 About Me
