@@ -29,7 +29,7 @@
 
 I’m a researcher and engineer specializing in visual computing with applications in healthcare and industry. I design robust workflows that combine AI, scientific interpretability, and high-performance image analysis.
 
-📫 **Email**:     alfonsoer@gmail.com
+📫 **Email**:    alfonsoer(at)gmail(dot)com
 🔗 **LinkedIn**: [https://www.linkedin.com/in/alfonsoes](https://www.linkedin.com/in/alfonsoes)  
 <!--📄 **CV**:       [Download PDF](https://yourcv.com)
 -->
