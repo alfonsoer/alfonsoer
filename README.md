@@ -35,6 +35,7 @@ I’m a researcher and engineer specializing in visual computing with applicatio
 -->
 ---
 🇬🇧 Not everything here is about AI there should also be space for personal, mental, and emotional growth. This image is a watercolor painting I made, inspired by my daughter’s imagination.
+
 🇫🇷 Tout ici ne tourne pas uniquement autour de l’IA, il devrait aussi y avoir de la place pour le développement personnel, mental et émotionnel. Cette image est une aquarelle que j’ai peinte, inspirée par l’imagination de ma fille.
 
 ![1751882110911](https://github.com/user-attachments/assets/342518b4-5013-4c3c-8af3-42f8ade46f16)
