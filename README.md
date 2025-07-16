@@ -19,6 +19,8 @@
 ## 🧠 Expertise Areas
 
 - 🩻 **Medical Imaging** (MRI, fMRI, DWI, segmentation, classification)
+- <img width="1458" height="684" alt="image" src="https://github.com/user-attachments/assets/1cff1380-5033-4868-93cf-bef911de35ff" />
+
 - 🏭 **Industrial Vision** (defect detection, risk points, quality control)
 - 🧪 **Machine Learning / Deep Learning**
 - 🖼️ **Image Processing & Feature Extraction**
